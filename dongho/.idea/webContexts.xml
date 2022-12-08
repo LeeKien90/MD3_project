@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/admin/category.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/admin/createdProduct.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/admin/product.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/admin/updateProduct.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/Detail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/cart.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/checkout.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/header.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/register.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/shop.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+      </map>
+    </option>
+  </component>
+</project>
